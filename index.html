@@ -262,7 +262,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Anton&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/devices.min.css">
-    <script type="module" crossorigin src="/assets/index-BCr-T0JS.js"></script>
+    <script type="module" crossorigin src="/assets/index-17lLL7Ui.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vendor-icons-B-44bwBK.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-motion-C9wE_8SS.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-react-7pRQg_X0.js">
@@ -271,8 +271,18 @@
   <body>
     <div id="root"></div>
 
-    <!-- MOJO Support Live Chat Widget -->
-    <link rel="stylesheet" href="https://support.mojopokerclub.com/live_chat/css/style.css">
-    <script src="https://support.mojopokerclub.com/live_chat/dist/widget.js?token=e3d2a44f3e1b1ecc5b49037af5b35a9e333868d2e533e0ae39ed45a6ddf208ab" defer></script>
+    <!-- MOJO Support Live Chat Widget — loaded non-blocking to prevent render-blocking -->
+    <script>
+      (function() {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = 'https://support.mojopokerclub.com/live_chat/css/style.css';
+        document.head.appendChild(link);
+        var script = document.createElement('script');
+        script.src = 'https://support.mojopokerclub.com/live_chat/dist/widget.js?token=e3d2a44f3e1b1ecc5b49037af5b35a9e333868d2e533e0ae39ed45a6ddf208ab';
+        script.defer = true;
+        document.body.appendChild(script);
+      })();
+    </script>
   </body>
 </html>
