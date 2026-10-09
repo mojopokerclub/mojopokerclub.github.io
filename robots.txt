@@ -1,18 +1,10 @@
 User-agent: *
 Allow: /
-Disallow: /wp-admin/
-Disallow: /wp-login.php
-Disallow: /.env
-Disallow: /admin/
-
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
+Disallow: /404.html
 
 User-agent: Yandex
 Allow: /
-Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content /
+Disallow: /404.html
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&yclid&gclid /
 
 Sitemap: https://mojopokerclub.com/sitemap.xml
