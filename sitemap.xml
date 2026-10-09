@@ -406,6 +406,33 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://mojopokerclub.com/terms/cooler/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/terms/cooler/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/terms/cooler/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/terms/cooler/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/terms/bad-beat/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/terms/bad-beat/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/terms/bad-beat/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/terms/bad-beat/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/terms/variance/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/terms/variance/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/terms/variance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/terms/variance/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://mojopokerclub.com/poker-tilt/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/poker-tilt/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/poker-tilt/"/>
@@ -815,6 +842,33 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/terms/dealer-button/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/terms/dealer-button/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/terms/dealer-button/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/ru/terms/cooler/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/terms/cooler/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/terms/cooler/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/terms/cooler/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/ru/terms/bad-beat/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/terms/bad-beat/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/terms/bad-beat/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/terms/bad-beat/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/ru/terms/variance/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/terms/variance/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/terms/variance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/terms/variance/"/>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
