@@ -442,6 +442,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://mojopokerclub.com/tools/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/tools/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/tools/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/tools/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/tools/poker-calculator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/tools/poker-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/tools/poker-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/tools/poker-calculator/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mojopokerclub.com/ru/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/"/>
@@ -881,5 +899,23 @@
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/ru/tools/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/tools/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/tools/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/tools/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mojopokerclub.com/ru/tools/poker-calculator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mojopokerclub.com/tools/poker-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mojopokerclub.com/ru/tools/poker-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mojopokerclub.com/tools/poker-calculator/"/>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
